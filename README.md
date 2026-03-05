@@ -1,4 +1,4 @@
-# 🚀 비개발자가 예식장 계약날에 모바일청첩장 개발하고 배포하기 
+# 🚀 비개발자가 예식장 계약날에 모바일청첩장 개발/배포하기 
 
 <p align="center">
 <img width="1900" height="1038" alt="image" src="https://github.com/user-attachments/assets/5f346cb3-1715-4cac-b854-8ed99be4baa5" /></p>
