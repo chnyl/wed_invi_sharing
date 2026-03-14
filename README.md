@@ -1,4 +1,4 @@
-# 🚀 비개발자가 예식장 계약날에 모바일청첩장 개발/배포하기 
+# 비개발자가 예식장 계약날에 모바일청첩장 개발/배포하기 
 
 <p align="center">
 <img width="1900" height="1038" alt="image" src="https://github.com/user-attachments/assets/5f346cb3-1715-4cac-b854-8ed99be4baa5" /></p>
@@ -23,7 +23,7 @@
 
 > **살짝 타이틀을 달아본다면,,**
 
-## 하루 만에 Antigravity+Kimi로 모바일 청첩장 만들고 <br>카카오링크 API와 Open Graph 태그 설정 완료한 <br>Vercel 커스텀 도메인으로 배포까지 마무리 🎉
+## 하루 만에 Antigravity+Kimi로 모바일 청첩장 만들고 카카오링크 API와 Open Graph 태그 설정 완료한 Vercel 커스텀 도메인으로 배포까지 마무리 🎉
 
 
 <br>
